@@ -148,13 +148,13 @@
 
 Графики:
 * График сравнения скоростей инференса:
-    <img src="images/speed_comp.png">
+    <img src="/speed_comp.png">
 
 * График Сравнения затрат по памяти:
-    <img src="images/mem_comp.png">
+    <img src="/mem_comp.png">
 
 * Графики значений метрик от моделей:
-    <img src="images/stat_plot.png">
+    <img src="/stat_plot.png">
 
 ### Выводы
 
